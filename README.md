@@ -49,7 +49,6 @@ Outline
 
 3. **Data on maps - TileMill, GeoCommons.com, Leaflet.js, FieldPapers.** 1.5 hours
 	1. TileMill - http://mapbox.com/tilemill/
-		* http://tiles.klp.org.in:20009/#/project/karnataka_sslc
 	2. Google Docs geocoding and GeoJSON - https://github.com/mapbox/geo-googledocs
 	3. GeoCommons -  http://geocommons.com/
 	4. Leaflet.js - http://leafletjs.com/

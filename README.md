@@ -2,8 +2,7 @@ Data and Maps
 ===================================
 OpenDataCamp Bangalore, March 2-3
 -----------------------------------
-Sajjad Anwar and Kaustubh Srikanth
-------------------------------------------------------------
+### Sajjad Anwar and Kaustubh Srikanth ###
 ### 3 hour workshop on Open Geospatial Data and Making Maps ###
 
 ***

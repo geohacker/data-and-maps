@@ -44,7 +44,7 @@ Outline
 			* http://www.carbonmap.org/#intro
 
 3. **Data on maps - TileMill, GeoCommons.com, Leaflet.js, FieldPapers.** 1.5 hours
-        1. Fieldpapers.org
+       1. Fieldpapers.org
         2. JOSM, Potlatch, iD.
         3. D3.js
             * http://bl.ocks.org/mbostock/4090848

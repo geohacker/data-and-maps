@@ -42,14 +42,25 @@ Outline
 			* http://danieljwood.github.com/DC-crime/
 			* http://delhidigests.org/
 			* http://www.carbonmap.org/#intro
-		2. Paper
-			* http://commons.wikimedia.org/wiki/File:Indian_Railways_Network_Connectivity_Map_with_cities_and_population_density.png
-		3. Others.
-			* http://dev.klp.org.in:8030/map
 
 3. **Data on maps - TileMill, GeoCommons.com, Leaflet.js, FieldPapers.** 1.5 hours
-	1. TileMill - http://mapbox.com/tilemill/
-	2. Google Docs geocoding and GeoJSON - https://github.com/mapbox/geo-googledocs
-	3. GeoCommons -  http://geocommons.com/
-	4. Leaflet.js - http://leafletjs.com/
-	5. Field Papers - http://fieldpapers.org/
+        1. Fieldpapers.org
+        2. JOSM, Potlatch, iD.
+        3. D3.js
+            * http://bl.ocks.org/mbostock/4090848
+            * http://bl.ocks.org/mbostock/4150951
+            * http://michaelporath.com/projects/manifest-destiny/#overview
+            * http://bl.ocks.org/jasondavies/4091835
+            * http://datamaps.github.com/
+            * http://biovisualize.github.com/d3visualization/#visualizationType=map
+            * https://github.com/mbostock/topojson/wiki
+        4. Kartograph.js
+            * http://kartograph.org/
+        5. Leaflet.js
+            * http://dev.klp.org.in:8030/map
+            * http://leafletjs.com/examples/choropleth.html
+        6. GeoCommons
+        7. Google Docs geocoding and GeoJSON - (Sajjad) https://github.com/mapbox/geo-googledocs
+        8. QGIS
+        9. TileMill - http://mapbox.com/tilemill/
+			* http://tiles.klp.org.in:20009/#/project/karnataka_sslc (Sajjad)

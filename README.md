@@ -45,7 +45,7 @@ Outline
 
 3. **Data on maps - TileMill, GeoCommons.com, Leaflet.js, FieldPapers.** 1.5 hours
        1. Fieldpapers.org
-        2. JOSM, Potlatch, iD.
+        2. JOSM(http://josm.openstreetmap.de/), Potlatch(http://wiki.openstreetmap.org/wiki/Potlatch_2), iD(https://github.com/systemed/iD).
         3. D3.js
             * http://bl.ocks.org/mbostock/4090848
             * http://bl.ocks.org/mbostock/4150951
@@ -59,8 +59,8 @@ Outline
         5. Leaflet.js
             * http://dev.klp.org.in:8030/map
             * http://leafletjs.com/examples/choropleth.html
-        6. GeoCommons
+        6. GeoCommons - http://geocommons.com/
         7. Google Docs geocoding and GeoJSON - (Sajjad) https://github.com/mapbox/geo-googledocs
-        8. QGIS
+        8. QGIS - http://www.qgis.org/
         9. TileMill - http://mapbox.com/tilemill/
 			* http://tiles.klp.org.in:20009/#/project/karnataka_sslc (Sajjad)

@@ -44,23 +44,22 @@ Outline
 			* http://www.carbonmap.org/#intro
 
 3. **Data on maps - TileMill, GeoCommons.com, Leaflet.js, FieldPapers.** 1.5 hours
-       1. Fieldpapers.org
-        2. JOSM(http://josm.openstreetmap.de/), Potlatch(http://wiki.openstreetmap.org/wiki/Potlatch_2), iD(https://github.com/systemed/iD).
-        3. D3.js
-            * http://bl.ocks.org/mbostock/4090848
-            * http://bl.ocks.org/mbostock/4150951
-            * http://michaelporath.com/projects/manifest-destiny/#overview
-            * http://bl.ocks.org/jasondavies/4091835
-            * http://datamaps.github.com/
-            * http://biovisualize.github.com/d3visualization/#visualizationType=map
-            * https://github.com/mbostock/topojson/wiki
-        4. Kartograph.js
-            * http://kartograph.org/
-        5. Leaflet.js
-            * http://dev.klp.org.in:8030/map
-            * http://leafletjs.com/examples/choropleth.html
-        6. GeoCommons - http://geocommons.com/
-        7. Google Docs geocoding and GeoJSON - (Sajjad) https://github.com/mapbox/geo-googledocs
-        8. QGIS - http://www.qgis.org/
-        9. TileMill - http://mapbox.com/tilemill/
-			* http://tiles.klp.org.in:20009/#/project/karnataka_sslc (Sajjad)
+	1. Fieldpapers.org
+	2. JOSM(http://josm.openstreetmap.de/), Potlatch(http://wiki.openstreetmap.org/wiki/Potlatch_2), iD(https://github.com/systemed/iD).
+	3. D3.js
+		* http://bl.ocks.org/mbostock/4090848
+		* http://bl.ocks.org/mbostock/4150951
+		* http://michaelporath.com/projects/manifest-destiny/#overview
+		* http://bl.ocks.org/jasondavies/4091835
+		* http://datamaps.github.com/
+		* http://biovisualize.github.com/d3visualization/#visualizationType=map
+		* https://github.com/mbostock/topojson/wiki
+	4. Kartograph.js
+		* http://kartograph.org/
+	5. Leaflet.js
+		* http://dev.klp.org.in:8030/map
+		* http://leafletjs.com/examples/choropleth.html
+	6. GeoCommons - http://geocommons.com/
+	7. Google Docs geocoding and GeoJSON - https://github.com/mapbox/geo-googledocs
+	8. QGIS - http://www.qgis.org/
+	9. TileMill - http://mapbox.com/tilemill/
